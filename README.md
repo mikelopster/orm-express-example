@@ -6,4 +6,4 @@ code ชุดนี้เป็นส่วนหนึ่งของ Content 
 [![orm-express](https://img.youtube.com/vi/w1ucsQoEA0Y/0.jpg)](https://youtu.be/w1ucsQoEA0Y)
 
 ### อ่านฉบับบทความได้ที่
-[https://docs.mikelopster.dev/blog/orm-express](https://docs.mikelopster.dev/blog/orm-express)
+https://blog.mikelopster.dev/orm-express
